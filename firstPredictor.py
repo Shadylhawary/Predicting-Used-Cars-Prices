@@ -1,6 +1,6 @@
 from alg1 import getprediction
 
-print('Welcome to my first AI Program \nPredicting used Cars prices in the Egyptian Market.. :D\n JUST ENTER CAR MAKE, MODEL, YEAR, KILOMETERS !!')
+print('JUST ENTER CAR MAKE, MODEL, YEAR, KILOMETERS !!')
 
 
 
