@@ -1,7 +1,7 @@
 # Used Car Price Prediction [**Machine Learning**]
 This repo holds an algorithm to predict used cars market value to help both buyers and sellers to determine the cost range of the car before taking any action.
 ### Dataset & Features
- - Dataset were collected by scraping available Ads across the Egyptian selling used cars websites, >40K Ad were collected with a maximum 2 month time variance.
+ - Data were collected by scraping available Ads across the Egyptian selling used cars websites, >40K Ad were collected with a maximum 2 month time variance.
  - The features available for this dataset are Make, Model, Year, Mileage and Price
  - Correlation heatmap shows that the year and mileage has higher weight in computing the price.
  
